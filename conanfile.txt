@@ -1,0 +1,6 @@
+[requires]
+libsodium/1.0.16@bincrafters/stable
+UnrealGen/1.0@arsen-studio/testing
+
+[generators]
+unreal
